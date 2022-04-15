@@ -24,4 +24,8 @@ Things you may want to cover:
 * ...
 
 # Things I did:
+## Bootstrap setup
+- Google Bootstrap 5 CDN
+- Go to https://getbootstrap.com/docs/5.0/getting-started/introduction/ and copy link
+- Paste in `application.html.erb`
 
